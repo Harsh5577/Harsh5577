@@ -1,10 +1,11 @@
-[![MasterHead]("https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966")
+
+
 <h1 align="center">Hi 👋, I'm Harsh Gupta</h1>
 <h3 align="center">A Software Developer</h3>
 
-<img align="right" alt="Coding" width="400" src=>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh5577&label=Profile%20views&color=0e75b6&style=flat" alt="harsh5577" /> </p>
+
+<p align="left"> <img src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966"alt="harsh5577" /> </p>
 
 <p align="left"> <a href="https://twitter.com/harsh_gupta642" target="blank"><img src="https://img.shields.io/twitter/follow/harsh_gupta642?logo=twitter&style=for-the-badge" alt="harsh_gupta642" /></a> </p>
 

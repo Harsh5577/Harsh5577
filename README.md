@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/harsh_gupta642" target="blank"><img src="https://img.shields.io/twitter/follow/harsh_gupta642?logo=twitter&style=for-the-badge" alt="harsh_gupta642" /></a> </p>
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 💬 Ask me about **C++ , python , Django , Frontend**
 
 - 📫 How to reach me **gupta02harsh@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13_24t1S9Ov74MWjxu4PVIUXBIMQGuWXm/view?usp=drive_link](https://drive.google.com/file/d/13_24t1S9Ov74MWjxu4PVIUXBIMQGuWXm/view?usp=drive_link)
+
 
 - ⚡ Fun fact **Find me elsewhere**
 
